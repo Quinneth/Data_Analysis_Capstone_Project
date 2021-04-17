@@ -1,6 +1,6 @@
-# Data Analysis Capstone Project | June 2021
+# Data Analysis Capstone Project
 
-*University of Wisconsin Entension*
+*University of Wisconsin Extention* | *June 2021*
 
 *Team: Andee Vosters, Laura Busch, Nicole Appazeller, Quinn Dye, and Roomasa Channa*
 
